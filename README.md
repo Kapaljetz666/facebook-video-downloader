@@ -73,6 +73,7 @@ Navigate to the `frontend` directory and install the required Node.js packages:
 ```bash
 cd facebook-downloader/frontend
 npm install
+npm start
 ```
 
 ## Usage
