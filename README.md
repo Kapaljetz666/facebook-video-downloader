@@ -2,6 +2,13 @@
 
 This is a simple web application that allows you to download Facebook videos by providing their URL. It consists of a Python Flask backend for handling video downloads and a React.js frontend for the user interface.
 
+
+
+![image](https://github.com/user-attachments/assets/4fc09dac-3398-449f-b9e4-3486b9da032a)
+
+
+
+
 ## Features
 
 *   Download Facebook videos by URL.
