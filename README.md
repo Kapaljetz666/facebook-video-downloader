@@ -107,7 +107,7 @@ This will open the application in your default web browser (usually `http://loca
 3.  You will see a "Downloading..." message with a percentage progress.
 4.  Once the download is complete, a "Request successful" message will appear, along with the video thumbnail and a link to download the video.
 
-Downloaded videos will be saved in the `facebook-downloader/backend/downloads` directory on your server, and then served to your browser for download.
+Downloaded videos will be saved in the `facebook-downloader/backend/downloads` directory on your server, will be auto delete in 1 minute, and then served to your browser for download.
 
 ## License
 
